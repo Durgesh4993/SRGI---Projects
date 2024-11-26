@@ -1,4 +1,5 @@
 # Online Quize Application
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/97b5ac04-3b1a-4544-a0de-3505bb7ab2b2">
 
 ## Overview
 
