@@ -48,3 +48,8 @@ Follow these steps to set up the application locally.
 - **npm** (Node Package Manager)
 - **MongoDB** or other database of choice
 
+### Demo Video
+
+https://github.com/user-attachments/assets/5c950c69-09f7-4e38-bb9a-98036aaa3e61
+
+
