@@ -1,16 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Online Quize Application
 
-# Quizer
-Quiz application with usage of opentdb.com questions database.
+## Overview
 
-### [Live version](https://jacu.github.io/quizer/)
+The **Online Quiz Application** allows users to participate in various quizzes. It supports features like user authentication, quiz management, real-time scoring, and question management. This application provides a seamless and interactive quiz-taking experience for users, while enabling admins to create, manage, and analyze quizzes.
 
-### Updates
+### Key Features
+- **User Registration & Authentication**: Users can create an account and log in to take quizzes.
+- **Quiz Creation**: Admins can create and manage quizzes with multiple-choice and other question types.
+- **Real-time Scoring**: Users receive real-time scores at the end of each quiz.
+- **Leaderboard**: A leaderboard displaying top scorers based on the quizzes taken.
+- **Responsive Design**: The application is responsive and works well on both desktop and mobile devices.
 
-- 2020-05-11 question decode HTML ASCII
-- 2020-05-03 all unit tests
-- 2020-04-21 unit tests for all components
-- 2020-04-05 keyboard navigation, fixed reset behaviour, stars for summary, remove react router
-- 2020-03-29 main menu update (slider, tiles, dropdown)
-- 2020-03-22 tile style selection for menu options
-- 2020-03-15 initial release 
+---
+
+## Technologies Used
+
+- **Frontend**:
+  - HTML, CSS, JavaScript
+  - React.js (or Angular/Vue.js)
+  - Bootstrap/Tailwind CSS for responsive design
+
+- **Backend**:
+  - Node.js with Express.js
+  - TypeScript for type safety
+
+- **Database**:
+  - MongoDB (or MySQL/PostgreSQL)
+  
+- **Authentication**:
+  - JWT (JSON Web Token) for user authentication
+  
+- **Other Libraries**:
+  - Webpack for bundling
+  - bcrypt for password hashing
+  - dotenv for environment variable management
+
+---
+
+## Installation
+
+Follow these steps to set up the application locally.
+
+### Prerequisites
+
+- **Node.js** (v14.x or later)
+- **npm** (Node Package Manager)
+- **MongoDB** or other database of choice
+
