@@ -1,4 +1,4 @@
-# Online Quize Application
+![image](https://github.com/user-attachments/assets/e33f58ed-87ad-4560-a6dc-476b3ea2207a)# Online Quize Application
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/97b5ac04-3b1a-4544-a0de-3505bb7ab2b2">
 
 ## Overview
@@ -52,4 +52,22 @@ Follow these steps to set up the application locally.
 
 https://github.com/user-attachments/assets/5c950c69-09f7-4e38-bb9a-98036aaa3e61
 
+### Team Members:
+
+<table align="center">
+<tr>
+<td align="center" width="200"><pre><a href="https://www.linkedin.com/in/durgesh4993/"><img height=150px src="https://github.com/user-attachments/assets/12204d0f-24d4-4c99-aa30-cdda4515b158" width="200" alt="Durgesh Kr. Prajapati" /><br><sub>Durgesh Kr. Prajapati</sub></a><br>@Durgesh4993</pre></td>
+<td align="center" width="200"><pre><a href="#"><img height=150px src="#" width="200" alt="Amisha Yadav" /><br><sub>Amisha Yadav</sub></a><br>@AmishaYadav</pre></td>
+<td align="center" width="200"><pre><a href="#"><img height=150px src="#" width="200" alt="Ayush Singh" /><br><sub>Ayush Singh</sub></a><br>@Ayushsingh</pre></td>
+
+</tr>
+</table>
+
+## 🙏 Thank You!
+
+Thank you for taking the time to explore our project! We appreciate your interest and support. If you have any suggestions, contributions, or feedback, feel free to get involved or reach out. Let's build something amazing together!
+
+Stay connected with us on [GitHub](https://github.com/Durgesh4993) and join our community for more updates and collaborations!
+
+Happy Coding! 🚀
 
